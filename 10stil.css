@@ -1,0 +1,21 @@
+body{ background: url(images/siyah.jpg) }
+.hepsi{width: 821px; height: auto; margin: 20px auto; }
+.logo{ width: 200px; height: 200px; background: url(images/Unknown.jpg); border-radius: 100px;}
+.menu{ width: 821px; height: 42px; }
+.orta{width: 821px; height: 760px; background-color: whitesmoke
+    ;}
+.alt{ width: 821px;height: 50px; }
+.menu ul{ margin: 0 ; padding: 0; list-style: none; }
+.menu ul li{ float: left;}
+.menu ul li a{display: block; width: 80px; height: 30px; text-decoration: none; font: bold 12px tahoma; color: #ffff; text-align: center; padding: 12px 0 0 0;}
+.menu ul li#HOME a:{ display: block; width: 80px; height: 30px; text-decoration: none; font: bold 12px tahoma; color: white; text-align: center; padding: 12px 0 0 0; }
+.menu ul li a:hover{color: palevioletred; }
+.orta1{width: 456px; height: 10px; float: left; padding: 30px 0 0 40px; font: 20px tahoma ; color:dimgray; }
+.yazı1{ font:bold 24px tahoma; color:darkorchid}
+.orta2{width: 431px; height: 187px;  float: left; font:15px tahoma; color: black; padding: 25px 40px 0 25px;  text-align: justify; line: height 20px; ;}
+.yazı2{ font:12px tahoma; color: blueviolet; }
+.yazı3{ font: 63px; height:23px;   tahoma; color: black; padding: 12px 0 0 0;} 
+.yazı3 a:hover{ color:pink ;}
+.orta3{ width: 187px; height: 265px; float: left; background: url(images/kitap.jpg); width: 200px; height: 200px; border-radius: 25px;}
+.orta4{ width: 486px; height: 122px; float: left; list-style: none; font: 13px tahoma; padding: 10px 0 0 30px ; }
+.orta5 {width: 288px; height: 159px; float: left; }

@@ -1,0 +1,18 @@
+.hepsi{ width: 760px; height: auto; margin: 10px auto; } 
+.menu {width: 400px; height:50px;  margin: 0 0 0 13px;}
+.üsttaraf{width: 760px; height: 150px; background: url(images/insan.jpg); }
+.ortasol{width: 445px; height: 322px; float: left; font: 12px tahoma #999; }
+.ortasağ{width: 275px; height: 302px; float: left; margin: 0 0 0 20px; font: 12px tahoma #999; padding: 20px 0 0 10px;}
+.altsol{ width: 435px; height: 98px; float: left; border-top:1px solid #ccc; padding: 30px 0 0 0;} 
+.altsağ{ width: 295px; height: 68px; float: left; border-top:1px solid #ccc; padding: 30px 0 0 0;}
+.menu ul {margin: 0; padding: 0; list-style: none;}
+.menu ul li{ float: left;}
+.menu ul li a {display: block; width: 100px; height: 26px;  background-color: black; color: white; font:bold 12px tahoma; text-decoration:none; padding: 14px 0 0 0; text-align: center;}
+.menu ul li#ABOUT a:hover{color: green;}
+.menu ul li#SERVİCES a:hover{ color: red; }
+.menu ul li#PORTFOLYO a:hover{ color: blue;}
+.menu ul li#CONTACTUS a:hover{ color: blueviolet;}
+.yazı2{font:bold 17px tahoma; color: #f60; }
+.yazi3{font:bold 13px tahoma; color: #888; }
+.yazi4{font:solid 21px tahoma; color: #c95e4e; }
+.altsağ a{ font:11px tahoma #ccc; text-decoration: none;}

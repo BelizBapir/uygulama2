@@ -1,0 +1,9 @@
+.ortakısım { width: 500px; height: 500px; margin: 0 0 0 180px;} 
+.altkısmı{ width: 500px; height: 100px; float: left; margin:20px 0 0 130px;}
+.yanınortası{  width: 500px; height: 100px; float: left; margin: -18px 0 0 150px; }
+.ortanınyanı{ width: 500px; height: 100px; float: left; margin: -100px 0 0 350px;}
+.tarifbir{ width: 350px; height: 25px; border-radius: 10px; border: 0 solid; margin: -400px 0 0 -400px; background-color:#BF360C; color: white; text-align: center; }
+.reçete{ color: black; width: auto; height: auto; margin: 0 0 0 390px;}
+.tarifiki{ width: 350px; height: 25px; border: 0 solid; border-radius: 10px; background-color: #BF360C; color: white; margin: 10px 0 0 410px; text-align: center;}
+.reçete2{ color: black; width: auto; height: auto;  text-align: left;}
+.son {  width: auto; height:auto ; color: black;  text-align: center; margin: 300px 0 0 80px;}

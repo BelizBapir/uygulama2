@@ -1,0 +1,42 @@
+ .menübir{width:130px; height: 160px;  margin: 10px 0 0 0;  }
+.menübir ul {margin: 0; padding: 0; list-style: none; }
+
+.menübir ul li a {display: block; width: 125px; height: 24px;  background-color: #fcc; color: #930; font:bold 12px tahoma; text-decoration: none; padding: 8px 0 0 5px;}
+.menübir ul li a:hover{ color: #fff;  background-color: #930; text-decoration: underline;}
+
+.menüiki{ width: 600px; height: 32px; margin: 30px 0 0 0;}
+.menüiki ul {margin: 0; padding: 0; list-style: none; }
+.menüiki ul li{  float: left;}
+.menüiki ul li a {display: block; width: 120px; height: 24px;  background-color: #fcc; color: #930; font:bold 12px tahoma; text-decoration: none; padding: 8px 0 0 0; text-align: center;}
+.menüiki ul li a:hover{color:#ffff; background-color: #930;}
+
+.menüüç{ width: 510px; height: 32px; margin: 30px 0 0 0;}
+.menüüç ul {margin: 0; padding: 0; list-style: none;  }
+.menüüç ul li{  float: left;}
+.menüüç ul li a {display: block;    background-color: #fcc; color: #930; font:bold 12px tahoma; text-decoration: none;  padding: 9px 25px;}
+.menüüç ul li a:hover{color:#ffff; background-color: #930;}
+
+
+
+.menüdört{ width: 152px; height: 170px; margin: 30px 0 0 0;}
+.menüdört ul{margin: 0; padding: 0; list-style: none;}
+.menüdört ul li{ position: relative;}
+.menüdört ul li a {display: block; width: 150px;   background-color: #fcc; color: #930; font:bold 12px tahoma; text-decoration: none; padding: 9px 5px;  border:1px solid #800}
+.menüdört ul li a:hover{color:#ffff; background-color: #930;}
+.menüdört ul li ul {display: none; position: absolute; left: 162px; top: 0;}
+.menüdört ul li:hover ul {display: block;}
+
+.menübeş{ width:610px ; height:150px ; margin:50px 0 0 0;}
+.menübeş ul{margin: 0; padding: 0; list-style: none;}
+.menübeş ul li{ position: relative; float: left;}
+.menübeş ul li a{display: block; width: 120px; background-color: #fcc; font:bold 12px tahoma; text-decoration: none; padding:9px 0; color: #930;
+    border: 1px solid #800; text-align: center;}
+.menübeş ul li a:hover{color:#fff; background-color: #930;}
+.menübeş ul li ul{display: none; position: :absolute;  left 0; top:34px } 
+.menübeş ul li:hover ul{display: block;}
+
+.menüaltı{width: 750px; height: 30px; margin: 30px 0; border-bottom: 1px solid #aaa;} 
+.menüaltı ul{margin: 0; padding: 0; list-style: none; }
+.menüaltı ul li{float: left; }
+.menüaltı ul li a{ display:  block; width: 161px; height: 21px; text-decoration: none; color:black; font:bold 12px tahoma; background-color: #fcc; color: #930;  border: 1px solid tahoma; padding: 9px 0; text-align: center;}  
+.menüaltı ul li a:hover{ color: #900; }

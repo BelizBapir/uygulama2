@@ -1,0 +1,18 @@
+.hepsi{ width: 1500px; height: 30px; }
+.hakkında{ float: left; color: grey; font-size: 15px; float: left; margin: 0 0 0 10px;}
+.store{ float: left; color: grey; font-size: 15px; margin: 0 0 0 17px;}
+.gmail{ float: left; color: grey; font-size: 15px; margin: 0 0 0 950px;}
+.ımages{ float: left; color: grey; font-size: 15px; margin: 0 0 0 25px; }
+.imagesyani{ float: left;  color: white; width: 65px; height: 20px; border: 1px solid #4169e1; background-color: #4169e1; text-align: center; border-radius: 6px; margin: 0 0 0 20px; } 
+.ortakisim{ width: 272px; height: 92px; 
+    background: url(gooogle.png); margin: 150px 0 0 500px; }
+    .aramabutonu{ width: 500px; height: 30px; border: 1px solid grey; border-radius: 15px; margin: 10px 5px 0  390px; }
+    .search{  border:1px solid #dcdcdc; color:  #808080; background-color: #dcdcdc;  width: 130px; height: 26px; float: left; border-radius: 5px; margin: 25px 0 0 490px; text-align: center; padding: 9px 0 0 0;} 
+    .lucky{ width: 130px; height: 26px; background-color: #dcdcdc; border: 1px solid #dcdcdc; border-radius: 5px; text-align: center; float: left; color: #808080; margin: 25px 0 0 18px; text-align: center; padding: 9px 0 0 0;}
+    .enaltkısım{ width: 1540px; height: 30px; border:1px solid #dcdcdc; margin:  360px 0 0 -10px;background-color: #dcdcdc;}
+    .adver{ float: left; font-size: 15px; color: grey; padding: 5px 0 0 10px;}
+    .bus{ float: left; font-size: 15px; color: grey; float: left; padding: 5px 0 0 20px;}
+    .how{ float: left; font-size: 15px; color: grey; padding: 5px 0 0 20px;} 
+    .pri{ float: left; font-size: 15px; color: grey; padding: 5px 0 0 650px;}
+    .term{ float: left; font-size: 15px; color: grey; padding: 5px 0 0 20px}
+    .sett{ float: left; font-size: 15px; color: grey; padding: 5px 0 0 20px;}
